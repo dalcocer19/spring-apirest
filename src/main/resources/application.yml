@@ -12,13 +12,3 @@ spring:
         database-platform: org.hibernate.dialect.MySQLDialect
         hibernate:
             ddl-auto: update
-    security:
-        oauth2:
-            client:
-                registration:
-                    github:
-                        clientId: Ov23ct6H3h1nKtbZ0Qd4
-                        clientSecret: 797769d538cd2c2f540aea00ebfa4d8d70b3bbc6
-                    google:
-                        client-id: 10730072114-a9s2dpahnku2skdgqpi451umjvhe8e8g.apps.googleusercontent.com
-                        client-secret: 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
